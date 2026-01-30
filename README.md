@@ -25,20 +25,20 @@ Females ~60%, males ~40%; females shop more frequently (1:1.5 ratio in key malls
 
 -Products Sold by Gender: 
 Females drive higher volume (15-50% more patronage).
-#### Revenue by Gender:
+-Revenue by Gender:
 Females generate more; clothing/cosmetics lead.
-#### Category Distribution:
+-Category Distribution:
 Clothing/shoes top (~top revenue), then tech/cosmetics/toys; correlates with gender/age.
-#### Shopping by Age:
+-Shopping by Age:
 Even across 16-30/31-45/46+ (25% each); 16-45 most active.
-#### Products by Age Category:
+-Products by Age Category:
 16-45 buy most (highest frequency).
-#### Revenue by Age:
+-Revenue by Age:
 20-60 ~39%; peaks in young/middle adults.
-#### Category vs. Other Columns:
+-Category vs. Other Columns:
 Strong ties to gender (F: clothing), age (young: fashion), mall, payment.
-#### Payment Method Relations:
+-Payment Method Relations:
 Cash ~45%, credit ~35%, debit ~20%; links to age/gender (e.g., cards for younger).
-#### Payment Distribution:
+-Payment Distribution:
 Cash dominant, followed by credit/debit.
 ​
