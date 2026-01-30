@@ -1,6 +1,6 @@
 # Customer Data Analysis
 ## Project Overview
-This project analyzes customer shopping data from 10 Istanbul malls (2021-2023), covering invoice details, demographics (age, gender), products, payments, and revenue. It addresses 11 tasks on distributions, sales/revenue by gender/age/payment, category relations, and visualizations/insights using PowerBI.
+This dataset contains shopping information from 10 different shopping malls between 2021 and 2023. We have gathered data from various age groups and genders to provide a comprehensive view of shopping habits in Istanbul. The dataset includes essential information such as invoice numbers, customer IDs, age, gender, payment methods, product categories, quantity, price, order dates, and shopping mall locations. 
 
 ## Dataset 
 - <a href="https://github.com/pooja4511patil/customer_data_analysis/blob/main/Customer%20Data%20Analysis.xlsx">Dataset</a>
@@ -18,6 +18,12 @@ This project analyzes customer shopping data from 10 Istanbul malls (2021-2023),
 10.	How is the distribution of the payment method?
 
 -Dashboard Interaction <a href="https://github.com/pooja4511patil/customer_data_analysis/blob/main/customer%20data%20analysis%20dashboard.PNG">View Dashboard</a>
+## Process
+•	Verify data for any missing values and anomalies, and sort out the same.
+•	Made sure data is consistent and clean with respect to data type, data format and values used.
+•	Created charts according to the questions asked.
+•	Merge all charts into one dashboard and apply slicer to make dynamic.
+
 
 ## Expected Insights
 -Shopping Distribution by Gender:
@@ -49,4 +55,5 @@ Cash ~45%, credit ~35%, debit ~20%; links to age/gender (e.g., cards for younger
 
 -Payment Distribution:
 Cash dominant, followed by credit/debit.
-​
+
+## Dashboard​
