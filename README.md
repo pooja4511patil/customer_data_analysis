@@ -28,7 +28,7 @@ This dataset contains shopping information from 10 different shopping malls betw
 •	Merge all charts into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/pooja4511patil/customer_data_analysis/blob/main/customer%20data%20analysis%20dashboard.PNG)
 
 ## Expected Insights
 -Shopping Distribution by Gender:
