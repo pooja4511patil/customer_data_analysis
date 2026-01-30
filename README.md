@@ -21,9 +21,9 @@ This project analyzes customer shopping data from 10 Istanbul malls (2021-2023),
 
 ## Expected Insights
 #### Shopping Distribution by Gender: 
-                                     Females ~60%, males ~40%; females shop more frequently (1:1.5 ratio in key malls).
+Females ~60%, males ~40%; females shop more frequently (1:1.5 ratio in key malls).
 #### Products Sold by Gender: 
-                             Females drive higher volume (15-50% more patronage).
+Females drive higher volume (15-50% more patronage).
 Revenue by Gender: Females generate more; clothing/cosmetics lead.
 Category Distribution: Clothing/shoes top (~top revenue), then tech/cosmetics/toys; correlates with gender/age.
 Shopping by Age: Even across 16-30/31-45/46+ (25% each); 16-45 most active.
