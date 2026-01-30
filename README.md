@@ -17,4 +17,4 @@ This project analyzes customer shopping data from 10 Istanbul malls (2021-2023),
 9.	Does the payment method have a relation with other columns?
 10.	How is the distribution of the payment method?
 
--Dashboard Interaction 
+-Dashboard Interaction <a href="https://github.com/pooja4511patil/customer_data_analysis/blob/main/customer%20data%20analysis%20dashboard.PNG">View Dashboard</a>
