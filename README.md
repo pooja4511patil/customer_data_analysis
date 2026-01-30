@@ -27,6 +27,8 @@ This dataset contains shopping information from 10 different shopping malls betw
 
 •	Merge all charts into one dashboard and apply slicer to make dynamic.
 
+## Dashboard
+
 
 ## Expected Insights
 -Shopping Distribution by Gender:
@@ -59,4 +61,6 @@ Cash ~45%, credit ~35%, debit ~20%; links to age/gender (e.g., cards for younger
 -Payment Distribution:
 Cash dominant, followed by credit/debit.
 
-## Dashboard​
+## Conclusion
+Focus 60% of marketing budget on female 16-45 segment for clothing—expected 20-30% revenue uplift. 
+​
