@@ -20,8 +20,11 @@ This dataset contains shopping information from 10 different shopping malls betw
 -Dashboard Interaction <a href="https://github.com/pooja4511patil/customer_data_analysis/blob/main/customer%20data%20analysis%20dashboard.PNG">View Dashboard</a>
 ## Process
 •	Verify data for any missing values and anomalies, and sort out the same.
+
 •	Made sure data is consistent and clean with respect to data type, data format and values used.
+
 •	Created charts according to the questions asked.
+
 •	Merge all charts into one dashboard and apply slicer to make dynamic.
 
 
